@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Nicolas 
+Apellido: Gutierrez
+--------------
+Nombre: Pedri 
+Apellido: Gonzalez
+--------------
+Nombre: Jude 
+Apellido: Bellingham
+--------------
+Nombre: Cristiano 
+Apellido: Dos Santos
+--------------
+Nombre: David 
+Apellido: Beckham
+--------------
